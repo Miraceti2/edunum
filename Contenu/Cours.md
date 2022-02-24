@@ -1,4 +1,5 @@
-# Cours
+# Comprendre l'intelligence artificelle
+
 
 Critères de sélection:
 
