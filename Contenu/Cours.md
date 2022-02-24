@@ -1,7 +1,7 @@
 # Comprendre l'intelligence artificielle
 
-7. Intelligence Artificielle
-L’Intelligence Artificielle (IA), est un domaine scientifique qui concerne des concepts, des technologies, des algorithmes simulant ou ayant des points communs avec certaines des capacités d’intelligence des êtres vivants, permettant à des machines d’accomplir des tâches et de résoudre des problèmes normalement
+* Intelligence Artificielle
+>L’Intelligence Artificielle (IA), est un domaine scientifique qui concerne des concepts, des technologies, des algorithmes simulant ou ayant des points communs avec certaines des capacités d’intelligence des êtres vivants, permettant à des machines d’accomplir des tâches et de résoudre des problèmes normalement
 réservés aux humains.
 Bien qu’ils soient très performants sur des tâches particulières, les algorithmes d’IA fonctionnent de manière très différente du cerveau humain, et ne sont pas capables de s’adapter de manière autonome à des tâches nouvelles (c’est à dire sans l’aide d’un·e ingénieur·e qui les reprogrammerait).
 Apprentissage automatique (machine learning, en anglais): l’apprentissage automatique ou apprentissage machine est un domaine scientifique qui développe et étudie des algorithmes capables d’acquérir des connaissances ou des savoir-faire sans qu’il y ait besoin de programmer à la main tous les détails de ces connaissances ou savoir-faire. Ces algorithmes sont nourris avec une grande quantité de données pour améliorer leur fonctionnement.
